@@ -1,0 +1,7 @@
+id: 2325
+backend: ibm_torino
+date: 2024-12-19
+batch_size: 225
+num_batches: 54
+num_circuits: 12150
+rep_len_tuples: [(1, 4), (4, 4), (6, 4), (1, 2), (8, 2), (12, 2), (1, 6), (2, 6), (4, 6)]

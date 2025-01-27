@@ -1,0 +1,8 @@
+id: 177042
+backend: ibm_cusco
+date: 2024-05-01
+batch_size: 299
+num_batches: 67
+num_circuits: 20250
+rep_len_tuples: [(4, 4), (8, 4), (12, 4), (4, 8), (8, 8), (12, 8), (4, 12), (8, 12), (12, 12), (1, 32), (3, 32), (5, 32), (1, 64), (3, 64), (5, 64)]
+n_randomizations: 441
