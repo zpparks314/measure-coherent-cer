@@ -5,7 +5,7 @@ This will be the main repository for the Spring 2025 thrust of Zachary Parks' th
 
 ## Directory Structure
 
-### `notebooks/`
+### `notebooks/` <span style="color: red;"> THESE NOTEBOOKS ARE TECHNICALLY NOT UPDATED</span>
 This directory contains templates of utility Python files and notebooks. It serves as the "ground zero" for the project. The notebooks in this directory start with "0", signifying that it's preferred not to run them in the `notebooks/` directory. Instead, run the notebooks in the `run/` directory, which are (mostly) identical to these.
 
 ### `run/`
