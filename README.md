@@ -1,7 +1,6 @@
 # measure-coherent-cer
-This will be the main repository for the Spring 2025 thrust of Zachary Parks' thesis research
 
-# XCER-SC Project - Parks, Carignan-Dugas, Dreher
+# XCER-SC Project -
 
 ## Directory Structure
 
